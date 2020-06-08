@@ -32,7 +32,7 @@ Segue o link para acessar o layout: [Figma](https://www.figma.com/file/9TlOcj6l7
 
 <h2>🤝 Agradecimentos</h2>
 
-Quero agradecer a [Rocketseat](https://github.com/Rocketseat) por nos traser essa e outras iniciativa e compartilhando conhecimentos tecnicas de desenvolvimento utilizando as tecnológias citadas acima.
+Quero agradecer a [Rocketseat](https://github.com/Rocketseat) por nos trazer essa e outras iniciativa e compartilhando conhecimentos tecnicas de desenvolvimento utilizando as tecnológias citadas acima.
 
 Meu muito Obrigado!
 
