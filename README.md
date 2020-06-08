@@ -1,7 +1,7 @@
 ![Capa](https://github.com/lucasdzuc/Ecoleta/blob/master/assets/capa-readme.png)
 
 ## :computer: Ecoleta
-O <b>Ecoleta</b> é um projeto desenvolvido com base na Semana Internacional do Meio Ambiente. O objetivo do projeto é conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, Pilhas e Baterias, Papéis e Papelão, Resíduos Eletrônicos, Resíduos Orgânicos e Óleo de Cozinha.
+O <b>Ecoleta</b> é um projeto desenvolvido inspirado na Semana Internacional do Meio Ambiente. O objetivo do projeto é conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, Pilhas e Baterias, Papéis e Papelão, Resíduos Eletrônicos, Resíduos Orgânicos e Óleo de Cozinha.
 
 
 ## :rocket: Tecnologias 
